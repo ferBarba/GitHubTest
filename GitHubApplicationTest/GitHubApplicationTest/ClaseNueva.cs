@@ -10,7 +10,6 @@ namespace GitHubApplicationTest
         public ClaseNueva()
         {
             //agrego el constructor desde github online
-            inserto un error!!!!
         }
     }
 }
