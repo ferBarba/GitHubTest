@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿#pragma checksum "..\..\..\MainWindow.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "ABC7028CAE12C02DD178C8F36588B662"
+=======
+﻿#pragma checksum "..\..\..\MainWindow.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "5D99A68DB775D8A1C7119104123F6F3D"
+>>>>>>> parent of 5855719... se agrega boton
 =======
 ﻿#pragma checksum "..\..\..\MainWindow.xaml" "{406ea660-64cf-4c82-b6f0-42d48172a799}" "5D99A68DB775D8A1C7119104123F6F3D"
 >>>>>>> parent of 5855719... se agrega boton
