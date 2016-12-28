@@ -1,0 +1,7 @@
+D:\GitHub\GitHubTest\GitHubApplicationTest\GitHubApplicationTest\obj\x86\Debug\MainWindow.baml
+D:\GitHub\GitHubTest\GitHubApplicationTest\GitHubApplicationTest\obj\x86\Debug\MainWindow.g.cs
+D:\GitHub\GitHubTest\GitHubApplicationTest\GitHubApplicationTest\obj\x86\Debug\App.g.cs
+D:\GitHub\GitHubTest\GitHubApplicationTest\GitHubApplicationTest\obj\x86\Debug\GitHubApplicationTest_MarkupCompile.cache
+D:\GitHub\GitHubTest\GitHubApplicationTest\GitHubApplicationTest\obj\x86\Debug\GitHubApplicationTest.g.resources
+D:\GitHub\GitHubTest\GitHubApplicationTest\GitHubApplicationTest\obj\x86\Debug\GitHubApplicationTest.Properties.Resources.resources
+D:\GitHub\GitHubTest\GitHubApplicationTest\GitHubApplicationTest\obj\x86\Debug\GitHubApplicationTest.csproj.GenerateResource.Cache
