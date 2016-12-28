@@ -7,5 +7,9 @@ namespace GitHubApplicationTest
 {
     class ClaseNueva
     {
+        public ClaseNueva()
+        {
+            //agrego el constructor desde github online
+        }
     }
 }
