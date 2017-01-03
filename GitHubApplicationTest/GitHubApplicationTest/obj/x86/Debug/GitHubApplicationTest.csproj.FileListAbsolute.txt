@@ -5,3 +5,7 @@ D:\GitHub\GitHubTest\GitHubApplicationTest\GitHubApplicationTest\obj\x86\Debug\G
 D:\GitHub\GitHubTest\GitHubApplicationTest\GitHubApplicationTest\obj\x86\Debug\GitHubApplicationTest.g.resources
 D:\GitHub\GitHubTest\GitHubApplicationTest\GitHubApplicationTest\obj\x86\Debug\GitHubApplicationTest.Properties.Resources.resources
 D:\GitHub\GitHubTest\GitHubApplicationTest\GitHubApplicationTest\obj\x86\Debug\GitHubApplicationTest.csproj.GenerateResource.Cache
+D:\GitHub\GitHubTest\GitHubApplicationTest\GitHubApplicationTest\bin\Debug\GitHubApplicationTest.exe
+D:\GitHub\GitHubTest\GitHubApplicationTest\GitHubApplicationTest\bin\Debug\GitHubApplicationTest.pdb
+D:\GitHub\GitHubTest\GitHubApplicationTest\GitHubApplicationTest\obj\x86\Debug\GitHubApplicationTest.exe
+D:\GitHub\GitHubTest\GitHubApplicationTest\GitHubApplicationTest\obj\x86\Debug\GitHubApplicationTest.pdb
